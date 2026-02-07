@@ -116,3 +116,13 @@
 
 <h3 align="center">Support:</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/TharushaDenuwan"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tharushadenuwan" /></a></p>
+
+---
+
+<h3 align="center">📈 GitHub Activity Graph</h3>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TharushaDenuwan&theme=tokyo-night&hide_border=true" />
+</p>
+
+
